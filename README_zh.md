@@ -1,6 +1,8 @@
 
 通过 阶梯有氧骑行 线性拟合 轻松测试 FTP（功能阈值功率）的小工具。
 
+[English version of this readme](https://github.com/floatinghotpot/ftptest/blob/main/README.md)
+
 # 安装 #
 
 请确保 Python 3.7 以上版本.

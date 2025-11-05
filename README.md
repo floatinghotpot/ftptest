@@ -1,6 +1,8 @@
 
 A handy gadget for easily testing FTP (Functional Threshold Power) with a linear fit of stepped aerobic cycling
 
+[阅读此文档的中文版本](https://github.com/floatinghotpot/ftptest/blob/main/README_zh.md)
+
 # Installation #
 
 Please make sure your Python is v3.7 or above.
