@@ -1,0 +1,23 @@
+# ignore following files
+.DS_Store
+.settings
+.idea
+.pytest_cache
+__pycache__
+*.iml
+hiquant.egg-info
+build
+dist
+cache/finance/*.csv
+cache/market/*.csv
+cache/pepb/*.csv
+cache/fund/*.csv
+cache/bank/*.csv
+cache/*.csv
+data
+output
+log
+tmp
+test1
+test2
+test3
