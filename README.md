@@ -43,7 +43,11 @@ Indoor cycling training with Zwift / MyWhoosh, finish a stepped aerobic workout:
 
 ![workout](https://github.com/floatinghotpot/ftptest/raw/main/docs/workout.jpg)
 
-Obtain power / heartrate sample data from training result, calculate linear fit and FTP：
+Obtain power / heartrate data and curve from training result:
+
+![power heartrate](https://github.com/floatinghotpot/ftptest/raw/main/docs/power_hr.jpg)
+
+Get power / heartrate sample data, calculate linear fit and FTP：
 
 ![linear](https://github.com/floatinghotpot/ftptest/raw/main/docs/demo.png)
 

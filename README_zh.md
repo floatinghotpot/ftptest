@@ -42,6 +42,10 @@ csv的格式，为每行一个功率和对应的心率，用逗号分隔，例�
 
 ![workout](https://github.com/floatinghotpot/ftptest/raw/main/docs/workout.jpg)
 
+获得 功率/心率 数据和曲线：
+
+![power heartrate](https://github.com/floatinghotpot/ftptest/raw/main/docs/power_hr.jpg)
+
 从骑行的阶梯采样 功率/心率 进行线性拟合，并计算出 FTP：
 
 ![linear](https://github.com/floatinghotpot/ftptest/raw/main/docs/demo.png)
